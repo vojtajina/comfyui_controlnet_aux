@@ -19,6 +19,6 @@ omegaconf
 ftfy
 addict
 yacs
-trimesh[easy]
+#trimesh[easy]
 albumentations
 scikit-learn
